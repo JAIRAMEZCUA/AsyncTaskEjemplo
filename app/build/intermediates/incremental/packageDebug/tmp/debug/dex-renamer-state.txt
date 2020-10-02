@@ -1,0 +1,4 @@
+#Fri Oct 02 12:09:58 CDT 2020
+base.0=/Users/kmmx/AndroidStudioProjects/AsyncTaskEjemploJ/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
